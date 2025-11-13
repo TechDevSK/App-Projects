@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable edittext_bg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable note_bg
+id contentEditText
+id contentTextView
+id main
+id notesContainer
+id notesScrollView
+id notesTextView
+id saveButton
+id titleEditText
+id titleTextView
+layout activity_main
+layout note_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Noted
+style Theme.Noted
+xml backup_rules
+xml data_extraction_rules
